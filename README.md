@@ -1,7 +1,8 @@
 # Corporate E-Commerce Sales & Performance Dashboard
 
 ## 📊 Live Interface Preview
-![Dashboard Layout](dashboard_screenshot.png)
+<img width="1172" height="651" alt="Dashboad_screenshot" src="https://github.com/user-attachments/assets/31473337-e1f2-4da3-a86c-62fd78b94cb9" />
+
 
 ## 🎯 Business Problem
 The executive leadership team lacked automated visibility into international transactional revenue trends, regional client purchasing concentrations, and shifting order velocities. This data gap caused manual reporting lag and limited the team's ability to spot customer churn patterns early.
